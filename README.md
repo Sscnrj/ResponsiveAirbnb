@@ -1,3 +1,1 @@
-# ResponsiveAirbnb
-
-https://github.com/Sscnrj/ResponsiveAirbnb
+https://sscnrj.github.io/)https://sscnrj.github.io/
